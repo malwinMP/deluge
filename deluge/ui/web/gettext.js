@@ -836,3 +836,5 @@ GetText.add('Your password was successfully changed!', '${escape(_("Your passwor
 // InterfacePage.js:200
 GetText.add('Your passwords don\'t match!', '${escape(_("Your passwords don\'t match!"))}')
 
+// OptionsTab.js
+GetText.add('seed_mode', '${escape(_("seed_mode"))}')
